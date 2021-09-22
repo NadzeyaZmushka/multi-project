@@ -1,0 +1,15 @@
+plugins {
+    id 'java'
+}
+
+group 'com.epam.multi-project'
+version '1.0-SNAPSHOT'
+
+repositories {
+    mavenCentral() //??
+}
+
+dependencies {
+    compile project(":api")
+    compile project(":core")
+}

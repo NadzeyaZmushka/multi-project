@@ -1,0 +1,7 @@
+-classpath 'D:\\Epam Lab\\multi-project\\core\\build\\classes\\java\\main;D:\\Epam Lab\\multi-project\\core\\build\\resources\\main;D:\\Epam Lab\\multi-project\\core\\lib\\utils-1.3.5.jar;C:\\Users\\nadin\\.gradle\\caches\\modules-2\\files-2.1\\org.apache.commons\\commons-lang3\\3.12.0\\c6842c86792ff03b9f1d1fe2aab8dc23aa6c6f0e\\commons-lang3-3.12.0.jar'
+-d 'D:\\Epam Lab\\multi-project\\core\\build\\docs\\javadoc'
+-doctitle 'core 1.0-SNAPSHOT API'
+-notimestamp 
+-quiet 
+-windowtitle 'core 1.0-SNAPSHOT API'
+'D:\\Epam Lab\\multi-project\\core\\src\\main\\java\\com\\epam\\multi_project\\Utils.java'
